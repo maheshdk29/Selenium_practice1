@@ -1,0 +1,2 @@
+ChromeDriver driver = new ChromeDriver();
+driver.manage().window().maximize();
