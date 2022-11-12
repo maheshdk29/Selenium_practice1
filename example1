@@ -1,3 +1,4 @@
 ChromeDriver driver = new ChromeDriver();
 driver.manage().window().maximize();
 driver.close();
+driver.navigate().refresh();
